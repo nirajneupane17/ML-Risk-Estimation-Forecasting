@@ -1,0 +1,8 @@
+Category,Model,Metric,Value
+Vol,GARCH,RMSE,0.009729
+Vol,RF,RMSE,0.010394
+Vol,XGBoost,RMSE,0.010699
+Credit,Logistic,AUC,0.8399
+Credit,RF,AUC,0.8243
+Credit,XGBoost,AUC,0.7845
+Anomaly,IsolationForest,DetRate,0.94
