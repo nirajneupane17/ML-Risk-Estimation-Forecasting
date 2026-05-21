@@ -174,9 +174,6 @@ ML-Risk-Estimation-Forecasting/
 ## Author
 
 **Niraj Neupane**
-Quantitative Risk Analyst · BlackRock
-MS Financial Economics · University of Wisconsin-Madison
-CA (ICAI) · CPA Candidate · FRM Candidate
 
 GitHub: [github.com/nirajneupane17](https://github.com/nirajneupane17)
 
